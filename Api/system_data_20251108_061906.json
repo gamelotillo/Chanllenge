@@ -1,0 +1,688 @@
+[
+  {
+    "ip": "172.17.0.4",
+    "agent_id": "95aedfb01f3a-8ae88bdd-8184-4dc9-a31e-f0aa65facf37",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 1361.764,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:18:48.504403",
+    "received_at": "2025-11-08T06:18:48.506361"
+  },
+  {
+    "ip": "172.17.0.3",
+    "agent_id": "f0d097966d05-c51ad649-9862-48b0-8e39-c4e936dfed7f",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 1021.1320625,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:16:24.581731",
+    "received_at": "2025-11-08T06:16:24.584931"
+  },
+  {
+    "ip": "172.17.0.3",
+    "agent_id": "f0d097966d05-c51ad649-9862-48b0-8e39-c4e936dfed7f",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 1889.0109375000002,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:13:24.543726",
+    "received_at": "2025-11-08T06:13:24.546236"
+  },
+  {
+    "ip": "172.17.0.3",
+    "agent_id": "f0d097966d05-c51ad649-9862-48b0-8e39-c4e936dfed7f",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 1914.820375,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:12:24.533520",
+    "received_at": "2025-11-08T06:12:24.535360"
+  },
+  {
+    "ip": "172.17.0.4",
+    "agent_id": "e5c85eb65981-1eedd1e9-5257-4637-84db-e5841984b34e",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 805.6079374999999,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "cpu_percent": 0.0,
+        "name": "python",
+        "pid": 1
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:04:56.834293",
+    "received_at": "2025-11-08T06:04:56.837954"
+  },
+  {
+    "ip": "172.17.0.4",
+    "agent_id": "95aedfb01f3a-8ae88bdd-8184-4dc9-a31e-f0aa65facf37",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 524.5516875,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:13:48.448459",
+    "received_at": "2025-11-08T06:13:48.452384"
+  },
+  {
+    "ip": "172.17.0.3",
+    "agent_id": "f0d097966d05-c51ad649-9862-48b0-8e39-c4e936dfed7f",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 975.6991875,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:15:24.567394",
+    "received_at": "2025-11-08T06:15:24.571039"
+  },
+  {
+    "ip": "172.17.0.4",
+    "agent_id": "95aedfb01f3a-8ae88bdd-8184-4dc9-a31e-f0aa65facf37",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 586.92825,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:17:48.494485",
+    "received_at": "2025-11-08T06:17:48.498116"
+  },
+  {
+    "ip": "172.17.0.3",
+    "agent_id": "f0d097966d05-c51ad649-9862-48b0-8e39-c4e936dfed7f",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 462.3343125,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:18:24.608181",
+    "received_at": "2025-11-08T06:18:24.611702"
+  },
+  {
+    "ip": "172.17.0.4",
+    "agent_id": "95aedfb01f3a-8ae88bdd-8184-4dc9-a31e-f0aa65facf37",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 649.1815624999999,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:12:48.432362",
+    "received_at": "2025-11-08T06:12:48.437719"
+  },
+  {
+    "ip": "172.17.0.3",
+    "agent_id": "3fa905437bc9-3143fe52-c5e3-4df4-8bb3-47b43b940bdf",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 1933.5155625,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "name": "python",
+        "pid": 1,
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:04:17.991996",
+    "received_at": "2025-11-08T06:04:17.994662"
+  },
+  {
+    "ip": "172.17.0.3",
+    "agent_id": "f0d097966d05-c51ad649-9862-48b0-8e39-c4e936dfed7f",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 1386.3905000000002,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:10:24.521955",
+    "received_at": "2025-11-08T06:10:24.523701"
+  },
+  {
+    "ip": "172.17.0.3",
+    "agent_id": "f0d097966d05-c51ad649-9862-48b0-8e39-c4e936dfed7f",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 586.8615625,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:17:24.594268",
+    "received_at": "2025-11-08T06:17:24.597842"
+  },
+  {
+    "ip": "172.17.0.3",
+    "agent_id": "f0d097966d05-c51ad649-9862-48b0-8e39-c4e936dfed7f",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 2896.1158749999995,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:11:24.527839",
+    "received_at": "2025-11-08T06:11:24.529408"
+  },
+  {
+    "ip": "172.17.0.3",
+    "agent_id": "f0d097966d05-c51ad649-9862-48b0-8e39-c4e936dfed7f",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 1329.1445625,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:06:24.475943",
+    "received_at": "2025-11-08T06:06:24.478748"
+  },
+  {
+    "ip": "172.17.0.4",
+    "agent_id": "95aedfb01f3a-8ae88bdd-8184-4dc9-a31e-f0aa65facf37",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 1190.5449375,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:15:48.468430",
+    "received_at": "2025-11-08T06:15:48.470922"
+  },
+  {
+    "ip": "172.17.0.4",
+    "agent_id": "e5c85eb65981-1eedd1e9-5257-4637-84db-e5841984b34e",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 1244.9675625,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "cpu_percent": 0.0,
+        "name": "python",
+        "pid": 1
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:03:56.818767",
+    "received_at": "2025-11-08T06:03:56.821310"
+  },
+  {
+    "ip": "172.17.0.4",
+    "agent_id": "95aedfb01f3a-8ae88bdd-8184-4dc9-a31e-f0aa65facf37",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 1600.6906875,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:14:48.459911",
+    "received_at": "2025-11-08T06:14:48.462277"
+  },
+  {
+    "ip": "172.17.0.3",
+    "agent_id": "f0d097966d05-c51ad649-9862-48b0-8e39-c4e936dfed7f",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 950.9430000000001,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:08:24.499571",
+    "received_at": "2025-11-08T06:08:24.502735"
+  },
+  {
+    "ip": "172.17.0.3",
+    "agent_id": "f0d097966d05-c51ad649-9862-48b0-8e39-c4e936dfed7f",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 649.2745625,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:05:24.462633",
+    "received_at": "2025-11-08T06:05:24.468001"
+  },
+  {
+    "ip": "172.17.0.4",
+    "agent_id": "95aedfb01f3a-8ae88bdd-8184-4dc9-a31e-f0aa65facf37",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 649.279875,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:16:48.480724",
+    "received_at": "2025-11-08T06:16:48.484180"
+  },
+  {
+    "ip": "192.168.1.1",
+    "agent_id": "test-agent",
+    "cpu": {
+      "count": 4
+    },
+    "processes": [],
+    "users": [],
+    "os": {
+      "name": "Linux"
+    },
+    "timestamp": "2025-11-08T03:00:00",
+    "received_at": "2025-11-08T06:07:59.435599"
+  },
+  {
+    "ip": "172.17.0.3",
+    "agent_id": "f0d097966d05-c51ad649-9862-48b0-8e39-c4e936dfed7f",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 1358.2441875,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:14:24.554977",
+    "received_at": "2025-11-08T06:14:24.557993"
+  },
+  {
+    "ip": "172.17.0.3",
+    "agent_id": "f0d097966d05-c51ad649-9862-48b0-8e39-c4e936dfed7f",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 1321.9460625000002,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:09:24.512623",
+    "received_at": "2025-11-08T06:09:24.516126"
+  },
+  {
+    "ip": "172.17.0.3",
+    "agent_id": "f0d097966d05-c51ad649-9862-48b0-8e39-c4e936dfed7f",
+    "cpu": {
+      "count": 16,
+      "frequency": {
+        "current": 1054.17425,
+        "min": 400.0,
+        "max": 4829.0
+      },
+      "model": "Desconocido"
+    },
+    "processes": [
+      {
+        "pid": 1,
+        "name": "python",
+        "cpu_percent": 0.0
+      }
+    ],
+    "users": [],
+    "os": {
+      "name": "Linux",
+      "version": "#88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2",
+      "release": "6.8.0-87-generic"
+    },
+    "timestamp": "2025-11-08T06:07:24.488635",
+    "received_at": "2025-11-08T06:07:24.491678"
+  }
+]
